@@ -9,7 +9,7 @@
 1. export annotation as textes.
 
 
-## train YOLOV3 on your custom dataset (follow the structure):
+## Train YOLOV3 on your custom dataset (follow the structure):
 
 if you want to train yolov3 on google colab you don't need to download cuda, cudnn and opencv.
 
