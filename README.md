@@ -15,10 +15,10 @@ if you want to train yolov3 on google colab you don't need to download cuda, cud
 
 training yolov3 on google colab --> [YOLOV3-COLAB](https://www.youtube.com/watch?v=DLngCtsG3bk&t=1323s)
 
-# local pc: 
+# Local PC: 
 
-### Download CUDA and CUDNN based on your computer hardware and OPENCV Versions.
-surf [this](https://www.youtube.com/watch?v=HsuKxjQhFU0&t=719s) link for building OPENCV GPU
+### Download CUDA and CUDNN based on your computer hardware and OpenCv Versions.
+surf [this](https://www.youtube.com/watch?v=HsuKxjQhFU0&t=719s) link for building OpenCv GPU
 
 
 surf [this](https://www.youtube.com/watch?v=saDipJR14Lc&t=572s) link for building Darknet.
