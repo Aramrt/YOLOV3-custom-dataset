@@ -33,6 +33,9 @@ surf [this](https://www.youtube.com/watch?v=saDipJR14Lc&t=572s) link for buildin
 
 
 
+> Warning: change the weight and cfg configuration to CUDA (change the CPU and OPENCV to CUDA)
+
+
 
 
 
