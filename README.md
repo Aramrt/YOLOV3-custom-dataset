@@ -17,8 +17,8 @@ training yolov3 on google colab --> [YOLOV3-COLAB](https://www.youtube.com/watch
 
 # Local PC: 
 
-### Download CUDA and CUDNN based on your computer hardware and OpenCv Versions.
-surf [this](https://www.youtube.com/watch?v=HsuKxjQhFU0&t=719s) link for building OpenCv GPU
+### Download CUDA and CUDNN based on your computer hardware and OpenCV Versions.
+surf [this](https://www.youtube.com/watch?v=HsuKxjQhFU0&t=719s) link for building OpenCV GPU
 
 
 surf [this](https://www.youtube.com/watch?v=saDipJR14Lc&t=572s) link for building Darknet.
