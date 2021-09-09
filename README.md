@@ -4,7 +4,7 @@
 
 Surf [makesense](https://www.makesense.ai/) for annotating your pictures.
 
-1. try to grabing your boxes a little bigger than the objects.
+1. try to grab your boxes a little bigger than the objects.
 
 1. export annotation as textes.
 
